@@ -1,3 +1,8 @@
+Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão. Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência mais eficiente, transparente e prática.
+Nosso objetivo principal é otimizar o tempo das pessoas e tornar o processo de busca por serviços mais simples e intuitivo. Através da nossa plataforma, os usuários poderão comparar preços, conhecer diferentes prestadores, avaliar estilos de trabalho e escolher a opção que melhor se encaixa em suas necessidades.
+Além disso, estabelecemos parcerias estratégicas com empresas e profissionais do setor para oferecer um ambiente confiável, onde os serviços possam ser divulgados de forma clara, com informações detalhadas e meios de contato acessíveis. Nossa solução também permite que negócios fechem contratos e recebam pedidos diretamente pela plataforma, ampliando suas oportunidades de crescimento.
+
+
 Cadastro Cliente 
 Quais campos de Cadastro: nome completo, telefone, cpf, rg, cidade, Email, 
 senha e confirmar senha; 
