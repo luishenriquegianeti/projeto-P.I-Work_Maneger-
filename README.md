@@ -11,6 +11,7 @@ Desenvolvemos um software inovador que atua como intermediário entre essas part
 - Prática
 ______________________________________________________________________________________________________________________
 🎯 OBJETIVO PRINCIPAL
+
 Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e intuitiva.
 
 ⚙️ FUNCIONALIDADES DA PLATAFORMA
