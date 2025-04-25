@@ -1,4 +1,6 @@
-🧩 RESUMO DO PROJETO
+<h1>PROJETO INTEGRADOR III WORK MANAGER</h1>
+
+<H1>Introdução</H1>
 
 Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão.
 
