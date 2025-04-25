@@ -2,13 +2,8 @@
 
 Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão.
 
-Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência:
+Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência mais eficiente, transparente e pratica.
 
-- Mais eficiente
-
-- Transparente
-
-- Prática
 ______________________________________________________________________________________________________________________
 🎯 OBJETIVO PRINCIPAL
 
