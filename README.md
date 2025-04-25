@@ -1,74 +1,169 @@
-projeto Work manager 
+🧩 Resumo do Projeto
+Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão.
 
-integrantes 
-luis henrique gianeti
-gabriel evangelista 
-gustavo henrique
-vinicus pedroso 
+Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência:
 
-Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão. Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência mais eficiente, transparente e prática.
-Nosso objetivo principal é otimizar o tempo das pessoas e tornar o processo de busca por serviços mais simples e intuitivo. Através da nossa plataforma, os usuários poderão comparar preços, conhecer diferentes prestadores, avaliar estilos de trabalho e escolher a opção que melhor se encaixa em suas necessidades.
-Além disso, estabelecemos parcerias estratégicas com empresas e profissionais do setor para oferecer um ambiente confiável, onde os serviços possam ser divulgados de forma clara, com informações detalhadas e meios de contato acessíveis. Nossa solução também permite que negócios fechem contratos e recebam pedidos diretamente pela plataforma, ampliando suas oportunidades de crescimento.
+Mais eficiente
 
+Transparente
 
-Cadastro Cliente 
-Quais campos de Cadastro: nome completo, telefone, cpf, rg, cidade, Email, 
-senha e confirmar senha; 
+Prática
 
-Quais Campos Obrigatórios: nome completo, telefone, cpf, rg, cidade, Email, 
-senha e confirmar senha; 
+🎯 Objetivo Principal
+Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e intuitiva.
 
-Quais Validações devem existir: cpf, rg, Email, senha confirmar e telefone; 
-Campos de Seleção Combo-Radio-Check: radio sexo, combo cidade, check rg 
-cpf,  
+⚙️ Funcionalidades da Plataforma
+Comparar preços
 
-Comportamentos após salvar? mensagem: Cadastro feito com sucesso; 
-Cadastro Prestador de Serviços 
+Conhecer diferentes prestadores
 
-Quais campos de Cadastro: nome, telefone, cnpj, Email, endereço, ramo 
-específico, senha, senha confirmar; 
+Avaliar estilos de trabalho
 
-Quais Campos Obrigatórios: nome, telefone, cnpj, Email, endereço, ramo 
-específico, senha, senha confirmar;
+Escolher a melhor opção conforme necessidade
 
-Quais Validações devem existir: telefone, cnpj, Email, senha confirmar; 
-Campos de Seleção Combo-Radio-Check: Combo ramo específico; 
+Estabelecer parcerias estratégicas com empresas e profissionais
 
-Listagem Cliente 
-Quais colunas listagem? Cliente: nome completo, telefone, cpf, rg, cidade, 
-Email, 
+Criar ambiente confiável e detalhado
 
-Oque ocorre ao clicar na listagem? Cliente: terá dois botões onde terá um para 
-editar e outro para deletar; 
+Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
 
-Qual campo de busca Cliente:  Poderá fazer a busca por nome, cpf e Email; 
-Listagem Prestador 
+👤 Cadastro de Cliente
+📋 Campos de Cadastro
+Nome completo
 
-Quais colunas listagem? Prestador: nome, telefone, cnpj, Email, endereço, 
-ramo específico; 
+Telefone
 
-Oque ocorre ao clicar na listagem? Prestador: terá dois botões onde terá um 
-para editar e outro para deletar; 
+CPF
 
-Qual campo de busca Cliente: Poderá fazer a busca por nome, cnpj, ramo 
-específico; 
+RG
 
-Editar Cliente 
-Quais campos editáveis? Cliente: nome, telefone, cidade, Email, senha e 
-confirmar senha; 
+Cidade
 
-Cancelar volta para? Clientes: volta para Perfil; 
+E-mail
 
-Editar Prestador 
-Quais campos editáveis? Prestador: nome, telefone, Email, endereço, ramo 
-específico, senha, senha confirmar;
+Senha
 
-Cancelar volta para? Prestador: volta para Perfil; 
+Confirmar senha
 
-Excluir Cliente 
-Onde deve excluir e qual fluxo? Cliente: poderá excluir o todos os dados no 
-perfil; 
+✅ Campos Obrigatórios
+Todos os campos listados acima
 
-Excluir Prestador 
-Onde deve excluir e qual fluxo? Prestador: poderá excluir o todos os dados no 
-perfil;
+🛡️ Validações Necessárias
+CPF
+
+RG
+
+E-mail
+
+Senha / Confirmar senha
+
+Telefone
+
+🔘 Campos com Elementos de Seleção
+Sexo: Radio
+
+Cidade: Combo
+
+RG/CPF: Checkbox
+
+💬 Após Salvar
+Exibir mensagem: "Cadastro feito com sucesso"
+
+🧰 Cadastro de Prestador de Serviços
+📋 Campos de Cadastro
+Nome
+
+Telefone
+
+CNPJ
+
+E-mail
+
+Endereço
+
+Ramo específico
+
+Senha
+
+Confirmar senha
+
+✅ Campos Obrigatórios
+Todos os campos listados acima
+
+🛡️ Validações Necessárias
+Telefone
+
+CNPJ
+
+E-mail
+
+Senha / Confirmar senha
+
+🔘 Campos com Elementos de Seleção
+Ramo específico: Combo
+
+📄 Listagem de Clientes
+📋 Colunas na Tabela
+Nome completo
+
+Telefone
+
+CPF
+
+RG
+
+Cidade
+
+E-mail
+
+🖱️ Ações ao Clicar
+Editar
+
+Deletar
+
+🔍 Campo de Busca
+Por nome, CPF e E-mail
+
+🧾 Listagem de Prestadores de Serviço
+📋 Colunas na Tabela
+Nome
+
+Telefone
+
+CNPJ
+
+E-mail
+
+Endereço
+
+Ramo específico
+
+🖱️ Ações ao Clicar
+Editar
+
+Deletar
+
+🔍 Campo de Busca
+Por nome, CNPJ e ramo específico
+
+✏️ Edição de Registros
+👤 Editar Cliente
+Campos Editáveis: Nome, telefone, cidade, e-mail, senha, confirmar senha
+
+Cancelar: Retorna para Perfil
+
+👨‍🔧 Editar Prestador
+Campos Editáveis: Nome, telefone, e-mail, endereço, ramo específico, senha, confirmar senha
+
+Cancelar: Retorna para Perfil
+
+❌ Exclusão de Registros
+👤 Excluir Cliente
+A exclusão ocorre diretamente no perfil
+
+Fluxo: Exclui todos os dados do cliente
+
+👨‍🔧 Excluir Prestador
+A exclusão ocorre diretamente no perfil
+
+Fluxo: Exclui todos os dados do prestador
