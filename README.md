@@ -15,49 +15,49 @@ Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e int
 ⚙️ Funcionalidades da Plataforma
 Comparar preços
 
-Conhecer diferentes prestadores
+- Conhecer diferentes prestadores
 
-Avaliar estilos de trabalho
+- Avaliar estilos de trabalho
 
-Escolher a melhor opção conforme necessidade
+- Escolher a melhor opção conforme necessidade
 
-Estabelecer parcerias estratégicas com empresas e profissionais
+- Estabelecer parcerias estratégicas com empresas e profissionais
 
-Criar ambiente confiável e detalhado
+- Criar ambiente confiável e detalhado
 
-Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
+- Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
 
 👤 Cadastro de Cliente
 📋 Campos de Cadastro
-Nome completo
+- Nome completo
 
-Telefone
+- Telefone
 
-CPF
+- CPF
 
-RG
+- RG
 
-Cidade
+- Cidade
 
-E-mail
+- E-mail
 
-Senha
+- Senha
 
-Confirmar senha
+- Confirmar senha
 
 ✅ Campos Obrigatórios
 Todos os campos listados acima
 
 🛡️ Validações Necessárias
-CPF
+- CPF
 
-RG
+- RG
 
-E-mail
+- E-mail
 
-Senha / Confirmar senha
+- Senha / Confirmar senha
 
-Telefone
+- Telefone
 
 🔘 Campos com Elementos de Seleção
 Sexo: Radio
