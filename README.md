@@ -27,7 +27,8 @@ Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e int
 
 - Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
 ______________________________________________________________________________________________________________________
-👤 Cadastro de Cliente
+👤 CADASTRO DE CLIENTE
+
 📋 Campos de Cadastro
 - Nome completo
 
@@ -46,7 +47,7 @@ ________________________________________________________________________________
 - Confirmar senha
 
 ✅ Campos Obrigatórios
-Todos os campos listados acima
+- Todos os campos listados acima
 
 🛡️ Validações Necessárias
 - CPF
@@ -60,32 +61,33 @@ Todos os campos listados acima
 - Telefone
 
 🔘 Campos com Elementos de Seleção
-Sexo: Radio
+- Sexo: Radio
 
-Cidade: Combo
+- Cidade: Combo
 
-RG/CPF: Checkbox
+- RG/CPF: Checkbox
 
 💬 Após Salvar
-Exibir mensagem: "Cadastro feito com sucesso"
+- Exibir mensagem: "Cadastro feito com sucesso"
+______________________________________________________________________________________________________________________
+🧰 CADASTRO DE PRESTADOR DE SERVIÇOS
 
-🧰 Cadastro de Prestador de Serviços
 📋 Campos de Cadastro
-Nome
+- Nome
 
-Telefone
+- Telefone
 
-CNPJ
+- CNPJ
 
-E-mail
+- E-mail
 
-Endereço
+- Endereço
 
-Ramo específico
+- Ramo específico
 
-Senha
+- Senha
 
-Confirmar senha
+- Confirmar senha
 
 ✅ Campos Obrigatórios
 Todos os campos listados acima
