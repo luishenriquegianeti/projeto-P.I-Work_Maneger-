@@ -1,19 +1,19 @@
-🧩 Resumo do Projeto
+🧩 RESUMO DO PROJETO
 Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidores e prestadores de serviços, facilitando o acesso a informações essenciais para a tomada de decisão.
 
 Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência:
 
-Mais eficiente
+- Mais eficiente
 
-Transparente
+- Transparente
 
-Prática
-
-🎯 Objetivo Principal
+- Prática
+______________________________________________________________________________________________________________________
+🎯 OBJETIVO PRINCIPAL
 Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e intuitiva.
 
-⚙️ Funcionalidades da Plataforma
-Comparar preços
+⚙️ FUNCIONALIDADES DA PLATAFORMA
+- Comparar preços
 
 - Conhecer diferentes prestadores
 
@@ -26,7 +26,7 @@ Comparar preços
 - Criar ambiente confiável e detalhado
 
 - Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
-
+______________________________________________________________________________________________________________________
 👤 Cadastro de Cliente
 📋 Campos de Cadastro
 - Nome completo
