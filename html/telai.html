@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>atividade</title>
+    <link rel="stylesheet" href="css/tela.i.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <div id="title">
+            <h1>work manager</h1>
+        </div>
+
+        <ul>
+            <a href="tct.html" id="inscreva-se-btn"><li>Cadastro de trabalhadores</li></a>
+            <a href="tcc.html" id="inscreva-se-btn"><li>Cadastro de Clientes</li></a>
+        </ul>
+    </header>
+
+    <main>
+        <aside>
+            <h2><span>Inscreva-se agora</span></h2>
+            <h2>no work manager</h2>
+            <p>
+                site criado para ajudar a procurar emprego
+            </p>
+            
+            <div>
+                <p>Login usuário:</p>
+                
+                <form>
+                    <div>
+                        <span class="spam-required">digite um email válido</span>
+                    <input type="email" placeholder="E-mail" name="email" id="email" class="inputs required" oninput="emailValidate()" required>
+                    
+                </div>  
+
+                <div>
+                    <span class="spam-required">digite uma senha com mais de 5 caracteres</span>
+                    <input type="password" placeholder="Senha" name="senha" id="senha" class="inputs required" oninput="senhaValidate()" required>
+                    
+                    <i class="far fa-eye" id="togglePassword" style="cursor: pointer; margin-left: -30px;"></i>
+                </div>
+                   
+                    
+                    
+
+                    <input class="inputSubmit" type="submit" name="submit" value="Verificar">
+
+                    <ul>
+                        <a href="" id="cadastro-se-btn">precisa de ajuda?</a>
+                        <a href="" id="cadastro-se-btn">redefinir senha?</a>
+                    </ul>
+                </form>
+            </div>
+        </aside>
+
+        <article>
+            <img src="imagens/work maneger.jpg" id="aaa" alt="logotipo">
+        </article>
+    </main>
+    
+    <script src="java script/tela.i.js"></script>
+</body>
+</html>
