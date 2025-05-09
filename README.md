@@ -7,11 +7,11 @@ Nosso projeto nasce da necessidade de melhorar a comunicação entre consumidore
 Desenvolvemos um software inovador que atua como intermediário entre essas partes, proporcionando uma experiência mais eficiente, transparente e pratica.
 
 ______________________________________________________________________________________________________________________
-🎯 OBJETIVO PRINCIPAL
+OBJETIVO PRINCIPAL
 
 Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e intuitiva.
 
-⚙️ FUNCIONALIDADES DA PLATAFORMA
+FUNCIONALIDADES DA PLATAFORMA
 - Comparar preços
 
 - Conhecer diferentes prestadores
@@ -26,9 +26,9 @@ Otimizar o tempo dos usuários e tornar a busca por serviços mais simples e int
 
 - Permitir que contratos e pedidos sejam fechados diretamente pela plataforma
 ______________________________________________________________________________________________________________________
-👤 CADASTRO DE CLIENTE
+CADASTRO DE CLIENTE
 
-📋 Campos de Cadastro
+Campos de Cadastro
 - Nome completo
 
 - Telefone
@@ -45,10 +45,10 @@ ________________________________________________________________________________
 
 - Confirmar senha
 
-✅ Campos Obrigatórios
+Campos Obrigatórios
 - Todos os campos listados acima
 
-🛡️ Validações Necessárias
+Validações Necessárias:
 - CPF
 
 - RG
@@ -59,19 +59,20 @@ ________________________________________________________________________________
 
 - Telefone
 
-🔘 Campos com Elementos de Seleção
+Campos com Elementos de Seleção:
 - Sexo: Radio
 
 - Cidade: Combo
 
 - RG/CPF: Checkbox
 
-💬 Após Salvar
+Após Salvar
 - Exibir mensagem: "Cadastro feito com sucesso"
 ______________________________________________________________________________________________________________________
-🧰 CADASTRO DE PRESTADOR DE SERVIÇOS
+CADASTRO DE PRESTADOR DE SERVIÇOS
 
-📋 Campos de Cadastro
+Campos de Cadastro:
+
 - Nome
 
 - Telefone
@@ -88,10 +89,10 @@ ________________________________________________________________________________
 
 - Confirmar senha
 
-✅ Campos Obrigatórios
+Campos Obrigatórios:
 Todos os campos listados acima
 
-🛡️ Validações Necessárias
+Validações Necessárias:
 Telefone
 
 CNPJ
@@ -100,11 +101,12 @@ E-mail
 
 Senha / Confirmar senha
 
-🔘 Campos com Elementos de Seleção
+Campos com Elementos de Seleção
 Ramo específico: Combo
 
-📄 Listagem de Clientes
-📋 Colunas na Tabela
+Listagem de Clientes
+Colunas na Tabela:
+
 Nome completo
 
 Telefone
@@ -117,16 +119,16 @@ Cidade
 
 E-mail
 
-🖱️ Ações ao Clicar
+Ações ao Clicar:
 Editar
 
 Deletar
 
-🔍 Campo de Busca
+Campo de Busca:
 Por nome, CPF e E-mail
 
-🧾 Listagem de Prestadores de Serviço
-📋 Colunas na Tabela
+Listagem de Prestadores de Serviço
+Colunas na Tabela:
 Nome
 
 Telefone
@@ -139,32 +141,33 @@ Endereço
 
 Ramo específico
 
-🖱️ Ações ao Clicar
+Ações ao Clicar:
 Editar
 
 Deletar
 
-🔍 Campo de Busca
+Campo de Busca:
 Por nome, CNPJ e ramo específico
 
-✏️ Edição de Registros
-👤 Editar Cliente
+Edição de Registros:
+Editar Cliente
+
 Campos Editáveis: Nome, telefone, cidade, e-mail, senha, confirmar senha
 
 Cancelar: Retorna para Perfil
 
-👨‍🔧 Editar Prestador
+Editar Prestador
 Campos Editáveis: Nome, telefone, e-mail, endereço, ramo específico, senha, confirmar senha
 
 Cancelar: Retorna para Perfil
 
-❌ Exclusão de Registros
-👤 Excluir Cliente
+Exclusão de Registros:
+Excluir Cliente
 A exclusão ocorre diretamente no perfil
 
 Fluxo: Exclui todos os dados do cliente
 
-👨‍🔧 Excluir Prestador
+Excluir Prestador:
 A exclusão ocorre diretamente no perfil
 
 Fluxo: Exclui todos os dados do prestador
